@@ -159,11 +159,3 @@ By adjusting a few keywords, you can:
 - Rank and analyze them  
 - Visualize keyword trends  
 
-—all in one command.
-"""
-
-path = "/mnt/data/Research_Paper_Retrieval_and_Analysis_README.txt"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-
-path
