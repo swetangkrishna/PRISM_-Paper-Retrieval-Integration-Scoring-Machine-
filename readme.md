@@ -1,4 +1,4 @@
-# Create a downloadable text file with the complete README content (Overview -> Summary)
+
 content = """# 🧩 Research Paper Retrieval & Analysis Pipeline
 
 This repository provides an automated end-to-end pipeline for retrieving, ranking, combining, and visualizing research papers based on predefined keywords.  
